@@ -1,5 +1,5 @@
 # Named_Entity_Recognition_Papers
-This is a repo listing some must-read papers(including datasets) on Named Entity Recognition, contributed by Yiduo Lai
+This is a repo listing some recommended-read papers(including datasets) on Named Entity Recognition, contributed by Xinxin， Yiduo Lai
 
 ## Papers List:
 1. **"Fine-Grained Named Entity Recognition Using Conditional Random Fields for Question Answering".** *Changki LeeYi-Gyu HwangHyo-Jung OhSoojong LimJeong HeoChung-Hee LeeHyeon-Jin KimJi-Hyun WangMyung-Gil Jang.* (AIRS 2006) [[paper]](https://www.researchgate.net/profile/Changki_Lee/publication/221055786_Fine-Grained_Named_Entity_Recognition_Using_Conditional_Random_Fields_for_Question_Answering/links/54c97ea80cf298fd2625fa0f/Fine-Grained-Named-Entity-Recognition-Using-Conditional-Random-Fields-for-Question-Answering.pdf)[code]
