@@ -31,7 +31,7 @@ Vincent Ng.* (COLING 2010) [[paper]](https://www.aclweb.org/anthology/C10-1105.p
  
 3. **"HYENA: Hierarchical Type Classification for Entity Names.".** *Mohamed Amir Yosef, Sandro Bauer, Johannes Hoffart, Marc Spaniol, Gerhard Weikum.* (COLING 2012) [[paper]](https://www.aclweb.org/anthology/C12-2133.pdf)[code]
 
-4. **"Wikilinks: A Large-scale Cross-Document Coreference Corpus Labeled via Links to Wikipedia".** *Sameer Singh, Amarnag Subramanya, Andrew McCallum.* (2012) [[paper]](http://www.academia.edu/download/30740385/UM-CS-2012-015.pdf)[code]
+4. **"Wikilinks: A Large-scale Cross-Document Coreference Corpus Labeled via Links to Wikipedia".** *Sameer Singh, Amarnag Subramanya, Andrew McCallum.* (2012) [[paper]](https://pdfs.semanticscholar.org/e227/de2707bd069d6cbab8c83b9a496945215aa9.pdf?_ga=2.7985141.671167180.1582786815-94649200.1582030896)[code]
 
 5. **"Fine-grained Semantic Typing of Emerging Entities".** *Ndapandula Nakashole, Tomasz Tylenda, Gerhard Weikum.* (ACL 2013) [[paper]](https://www.aclweb.org/anthology/P13-1146.pdf)[code]
 
