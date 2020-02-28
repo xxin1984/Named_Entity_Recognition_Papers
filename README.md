@@ -1,5 +1,5 @@
-# Named_Entity_Recognition_Papers
-This is a repo listing some recommended-read papers(including datasets) on Named Entity Recognition, contributed by Xin xin， Yiduo Lai
+# Fine-Grained Named Entity Recognition_Papers
+This is a repo listing some recommended papers on Fine-Grained Named Entity Recognition, contributed by Xin Xin， Yiduo Lai
 
 ## Papers List:
 ### Early work:
@@ -164,4 +164,4 @@ Vincent Ng.* (COLING 2010) [[paper]](https://www.aclweb.org/anthology/C10-1105.p
 10. **"Fine-grained Entity Recognition with Reduced False Negatives and Large Type Coverage".** *Abhishek Abhishek, Sanya Bathla Taneja, Garima Malik, Ashish Anand, Amit Awekar.* (2019) [[paper]](https://arxiv.org/abs/1904.13178)[code]
 
 ## Comments
-If you find any errors in the above information, please post it in Issues. Pull requests are welcomed for adding papers.
+If you find any errors in the above information, please post it in Issues. Pull requests are welcomed for adding papers. 
