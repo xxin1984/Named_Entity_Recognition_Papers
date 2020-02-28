@@ -1,4 +1,4 @@
-# Fine-Grained Named Entity Recognition_Papers
+# Fine-Grained Named Entity Recognition Papers
 This is a repo listing some recommended papers on Fine-Grained Named Entity Recognition, contributed by Xin Xin， Yiduo Lai
 
 ## Papers List:
