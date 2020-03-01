@@ -61,7 +61,7 @@ Vincent Ng.* (COLING 2010) [[paper]](https://www.aclweb.org/anthology/C10-1105.p
  
 17. **"Building a Fine-Grained Entity Typing System Overnight for a New X (X = Language, Domain, Genre).".** *Lifu Huang, Jonathan May, Xiaoman Pan, Heng Ji.* (2016) [[paper]](https://arxiv.org/abs/1603.03112)[code]
   
-18. **"LHD 2.0: A Text Mining Approach to Typing Entities In Knowledge Graphs".** *Tomas Kliegr, Ondrej Zamazal.* (2016) [[paper]](https://www.sciencedirect.com/science/article/pii/S1570826816300166)[code]
+18. **"LHD 2.0: A Text Mining Approach to Typing Entities In Knowledge Graphs".** *Tomas Kliegr, Ondrej Zamazal.* (2016) [[paper]](https://www.researchgate.net/publication/303771401_LHD_20_A_text_mining_approach_to_typing_entities_in_knowledge_graphs)[code]
  
 #### 2017
 19. **"Entity Linking via Joint Encoding of Types, Descriptions, and Context".** *Nitish Gupta, Sameer Singh, Dan Roth.* (ACL 2017) [[paper]](https://www.aclweb.org/anthology/D17-1284.pdf)[code]
