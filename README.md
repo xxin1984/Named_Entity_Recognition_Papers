@@ -95,11 +95,11 @@ Vincent Ng.* (COLING 2010) [[paper]](https://www.aclweb.org/anthology/C10-1105.p
 
 33. **"Put It Back: Entity Typing with Language Model Enhancement".** *Ji Xin, Hao Zhu, Xu Han, Zhiyuan Liu, Maosong Sun.* (ACL 2018) [[paper]](https://www.aclweb.org/anthology/D18-1121.pdf)[code]
 
-34. **"Corpus-level Fine-grained Entity Typing".** *Yadollah Yaghoobzadeh, Heike Adel, Hinrich Schütze.* (J. Artif. Intell. Res. 2017) [[paper]](https://arxiv.org/abs/1708.02275)[code]
+34. **"Corpus-level Fine-grained Entity Typing".** *Yadollah Yaghoobzadeh, Heike Adel, Hinrich Schütze.* (J. Artif. Intell. Res. 2018) [[paper]](https://arxiv.org/abs/1708.02275)[code]
 
-35. **"Improving Neural Fine-Grained Entity Typing with Knowledge Attention".** *Ji Xin, Yankai Lin, Zhiyuan Liu, Maosong Sun.* (AAAI 2018) [[paper]](http://nlp.csai.tsinghua.edu.cn/~lyk/publications/aaai2018_entitytyping.pdf)[code]
+35. **"Zero-Shot Open Entity Typing as Type-Compatible Grounding".** *Ben Zhou, Daniel Khashabi, Chen-Tse Tsai, Dan Roth.* (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1231.pdf)[code]
 
-36. **"Zero-Shot Open Entity Typing as Type-Compatible Grounding".** *Ben Zhou, Daniel Khashabi, Chen-Tse Tsai, Dan Roth.* (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1231.pdf)[code]
+36. **"Improving Neural Fine-Grained Entity Typing with Knowledge Attention".** *Ji Xin, Yankai Lin, Zhiyuan Liu, Maosong Sun.* (AAAI 2018) [[paper]](http://nlp.csai.tsinghua.edu.cn/~lyk/publications/aaai2018_entitytyping.pdf)[code]
 
 37. **"Fine-Grained Entity Typing through Increased Discourse Context and Adaptive Classification Thresholds".** *Sheng Zhang, Kevin Duh, Benjamin Van Durme.* (NAACL 2018) [[paper]](https://www.aclweb.org/anthology/S18-2022.pdf)[code]
 
