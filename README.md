@@ -95,7 +95,7 @@ Vincent Ng.* (COLING 2010) [[paper]](https://www.aclweb.org/anthology/C10-1105.p
 
 33. **"Put It Back: Entity Typing with Language Model Enhancement".** *Ji Xin, Hao Zhu, Xu Han, Zhiyuan Liu, Maosong Sun.* (ACL 2018) [[paper]](https://www.aclweb.org/anthology/D18-1121.pdf)[code]
 
-34. **"Corpus-level Fine-grained Entity Typing".** *Yadollah Yaghoobzadeh, Heike Adel, Hinrich Schütze.* (J. Artif. Intell. Res. 2018) [[paper]](https://arxiv.org/abs/1708.02275)[code]
+34. **"Corpus-level Fine-grained Entity Typing".** *Yadollah Yaghoobzadeh, Heike Adel, Hinrich Schütze.* (JAIR. 2018) [[paper]](https://arxiv.org/abs/1708.02275)[code]
 
 35. **"Zero-Shot Open Entity Typing as Type-Compatible Grounding".** *Ben Zhou, Daniel Khashabi, Chen-Tse Tsai, Dan Roth.* (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1231.pdf)[code]
 
@@ -111,34 +111,32 @@ Vincent Ng.* (COLING 2010) [[paper]](https://www.aclweb.org/anthology/C10-1105.p
 
 41. **"Type Hierarchy Enhanced Heterogeneous Network Embedding for Fine-Grained Entity Typing in Knowledge Bases".** *Hailong Jin, Lei Hou, Juanzi Li.* (CCL 2018) [[paper]](http://cips-cl.org/static/anthology/CCL-2018/CCL-18-095.pdf)[code]
 
-42. **"Corpus-level fine-grained entity typing".** *Yadollah Yaghoobzadeh, Heike  Adel, Hinrich Schütze.* (JAIR 2018) [[paper]](https://dl.acm.org/citation.cfm?id=3241711)[code]
- 
 #### 2019
-43. **"NNE: A Dataset for Nested Named Entity Recognition in English Newswire".** *Nicky Ringland, Xiang Dai, Sarvnaz Karimi, Ben Hachey, Cecile Paris, James R. Curran.* (ACL 2019) [[paper]](https://arxiv.org/abs/1906.01359)[code]
+42. **"NNE: A Dataset for Nested Named Entity Recognition in English Newswire".** *Nicky Ringland, Xiang Dai, Sarvnaz Karimi, Ben Hachey, Cecile Paris, James R. Curran.* (ACL 2019) [[paper]](https://arxiv.org/abs/1906.01359)[code]
 
-44. **"Improving Fine-grained Entity Typing with Entity Linking".** *Bo Chen, Xiaotao Gu, Yufeng Hu, Siliang Tang, Guoping Hu, Yueting Zhuang & Xiang Ren.* (EMNLP | IJCNLP 2019) [[paper]](https://arxiv.org/pdf/1904.06475)[code]
+43. **"Improving Fine-grained Entity Typing with Entity Linking".** *Bo Chen, Xiaotao Gu, Yufeng Hu, Siliang Tang, Guoping Hu, Yueting Zhuang & Xiang Ren.* (EMNLP | IJCNLP 2019) [[paper]](https://arxiv.org/pdf/1904.06475)[code]
 
-45. **"An Attentive Fine-Grained Entity Typing Model with Latent Type Representation".** *Ying Lin, Heng Ji.* (EMNLP | IJCNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1641.pdf)[code]
+44. **"An Attentive Fine-Grained Entity Typing Model with Latent Type Representation".** *Ying Lin, Heng Ji.* (EMNLP | IJCNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1641.pdf)[code]
 
-46. **"Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks".** *Hailong Jin, Lei Hou, Juanzi Li, Tiansi Dong.* (EMNLP | IJCNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1502.pdf)[code]
+45. **"Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks".** *Hailong Jin, Lei Hou, Juanzi Li, Tiansi Dong.* (EMNLP | IJCNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1502.pdf)[code]
 
-47. **"Learning to Denoise Distantly-Labeled Data for Entity Typing".** *Yasumasa Onoe, Greg Durrett.* (NAACL 2019) [[paper]](https://arxiv.org/abs/1905.01566)[code]
+46. **"Learning to Denoise Distantly-Labeled Data for Entity Typing".** *Yasumasa Onoe, Greg Durrett.* (NAACL 2019) [[paper]](https://arxiv.org/abs/1905.01566)[code]
 
-48. **"Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing".** *Wenhan Xiong, Jiawei Wu, Deren Lei, Mo Yu, Shiyu Chang, Xiaoxiao Guo, William Yang Wang.* (NAACL 2019) [[paper]](https://arxiv.org/pdf/1903.02591)[code]
+47. **"Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing".** *Wenhan Xiong, Jiawei Wu, Deren Lei, Mo Yu, Shiyu Chang, Xiaoxiao Guo, William Yang Wang.* (NAACL 2019) [[paper]](https://arxiv.org/pdf/1903.02591)[code]
 
-49. **"Description-Based Zero-shot Fine-Grained Entity Typing".** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi, Prasad Tadepalli.* (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1087.pdf)[code]
+48. **"Description-Based Zero-shot Fine-Grained Entity Typing".** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi, Prasad Tadepalli.* (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1087.pdf)[code]
 
-50. **"Fine-Grained Entity Typing in Hyperbolic Space".** *Federico López, Benjamin Heinzerling, Michael Strube.* (ACL | Rep4NLP | WS 2019) [[paper]](https://www.aclweb.org/anthology/W19-4319.pdf)[code]
+49. **"Fine-Grained Entity Typing in Hyperbolic Space".** *Federico López, Benjamin Heinzerling, Michael Strube.* (ACL | Rep4NLP | WS 2019) [[paper]](https://www.aclweb.org/anthology/W19-4319.pdf)[code]
 
-51. **"Collective Learning From Diverse Datasets for Entity Typing in the Wild".** *Abhishek, Ashish Anand and Amit Awekar.* (EYRE 2019) [[paper]](https://arxiv.org/pdf/1810.08782)[code]
+50. **"Collective Learning From Diverse Datasets for Entity Typing in the Wild".** *Abhishek, Ashish Anand and Amit Awekar.* (EYRE 2019) [[paper]](https://arxiv.org/pdf/1810.08782)[code]
  
-52. **"Modeling Noisy Hierarchical Types in Fine-Grained Entity Typing: A Content-Based Weighting Approach".** *Junshuang Wu, Richong Zhang, Yongyi Mao, Hongyu Guo, Jinpeng Huai.* (IJCAI 2019) [[paper]](https://www.ijcai.org/Proceedings/2019/0731.pdf)[code]
+51. **"Modeling Noisy Hierarchical Types in Fine-Grained Entity Typing: A Content-Based Weighting Approach".** *Junshuang Wu, Richong Zhang, Yongyi Mao, Hongyu Guo, Jinpeng Huai.* (IJCAI 2019) [[paper]](https://www.ijcai.org/Proceedings/2019/0731.pdf)[code]
 
-53. **"Modeling Noisy Hierarchical Types in Fine-Grained Entity Typing A Content-Based Weighting Approach".** *.* (IJCAI 2019) [[paper]](https://www.ijcai.org/proceedings/2019/0731.pdf)[code]
+52. **"Modeling Noisy Hierarchical Types in Fine-Grained Entity Typing A Content-Based Weighting Approach".** *.* (IJCAI 2019) [[paper]](https://www.ijcai.org/proceedings/2019/0731.pdf)[code]
 
-54. **"Fine-Grained Named Entity Recognition using ELMo and Wikidata".** *Cihan Dogan, Aimore Dutra, Adam Gara, Alfredo Gemma, Lei Sh, Michael Sigamani, Ella Walters.* (IE 2019) [[paper]](https://arxiv.org/abs/1904.10503)[code]
+53. **"Fine-Grained Named Entity Recognition using ELMo and Wikidata".** *Cihan Dogan, Aimore Dutra, Adam Gara, Alfredo Gemma, Lei Sh, Michael Sigamani, Ella Walters.* (IE 2019) [[paper]](https://arxiv.org/abs/1904.10503)[code]
 
-55. **"Improving Distantly-Supervised Entity Typing with Compact Latent Space Clustering".** *Bo Chen, Xiaotao Gu, Yufeng Hu, Siliang Tang, Guoping Hu, Yueting Zhuang, Xiang Ren.* (2019) [[paper]](https://www.aclweb.org/anthology/N19-1294.pdf)[code] 
+54. **"Improving Distantly-Supervised Entity Typing with Compact Latent Space Clustering".** *Bo Chen, Xiaotao Gu, Yufeng Hu, Siliang Tang, Guoping Hu, Yueting Zhuang, Xiang Ren.* (2019) [[paper]](https://www.aclweb.org/anthology/N19-1294.pdf)[code] 
 
 ### Entity Mention Detection
 1. **"Improving Mention Detection Robustness to Noisy Input".** *Radu Florian, John F. Pitrelli, Salim Roukos, Imed Zitouni.* (EMNLP 2010) [[paper]](https://www.aclweb.org/anthology/D10-1033.pdf)[code]
