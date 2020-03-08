@@ -132,11 +132,9 @@ Vincent Ng.* (COLING 2010) [[paper]](https://www.aclweb.org/anthology/C10-1105.p
  
 51. **"Modeling Noisy Hierarchical Types in Fine-Grained Entity Typing: A Content-Based Weighting Approach".** *Junshuang Wu, Richong Zhang, Yongyi Mao, Hongyu Guo, Jinpeng Huai.* (IJCAI 2019) [[paper]](https://www.ijcai.org/Proceedings/2019/0731.pdf)[code]
 
-52. **"Modeling Noisy Hierarchical Types in Fine-Grained Entity Typing A Content-Based Weighting Approach".** *.* (IJCAI 2019) [[paper]](https://www.ijcai.org/proceedings/2019/0731.pdf)[code]
+52. **"Fine-Grained Named Entity Recognition using ELMo and Wikidata".** *Cihan Dogan, Aimore Dutra, Adam Gara, Alfredo Gemma, Lei Sh, Michael Sigamani, Ella Walters.* (IE 2019) [[paper]](https://arxiv.org/abs/1904.10503)[code]
 
-53. **"Fine-Grained Named Entity Recognition using ELMo and Wikidata".** *Cihan Dogan, Aimore Dutra, Adam Gara, Alfredo Gemma, Lei Sh, Michael Sigamani, Ella Walters.* (IE 2019) [[paper]](https://arxiv.org/abs/1904.10503)[code]
-
-54. **"Improving Distantly-Supervised Entity Typing with Compact Latent Space Clustering".** *Bo Chen, Xiaotao Gu, Yufeng Hu, Siliang Tang, Guoping Hu, Yueting Zhuang, Xiang Ren.* (2019) [[paper]](https://www.aclweb.org/anthology/N19-1294.pdf)[code] 
+53. **"Improving Distantly-Supervised Entity Typing with Compact Latent Space Clustering".** *Bo Chen, Xiaotao Gu, Yufeng Hu, Siliang Tang, Guoping Hu, Yueting Zhuang, Xiang Ren.* (2019) [[paper]](https://www.aclweb.org/anthology/N19-1294.pdf)[code] 
 
 ### Entity Mention Detection
 1. **"Improving Mention Detection Robustness to Noisy Input".** *Radu Florian, John F. Pitrelli, Salim Roukos, Imed Zitouni.* (EMNLP 2010) [[paper]](https://www.aclweb.org/anthology/D10-1033.pdf)[code]
