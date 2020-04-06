@@ -114,7 +114,7 @@ Vincent Ng.* (COLING 2010) [[paper]](https://www.aclweb.org/anthology/C10-1105.p
 #### 2019
 42. **"NNE: A Dataset for Nested Named Entity Recognition in English Newswire".** *Nicky Ringland, Xiang Dai, Sarvnaz Karimi, Ben Hachey, Cecile Paris, James R. Curran.* (ACL 2019) [[paper]](https://arxiv.org/abs/1906.01359)[code]
 
-43. **"Improving Fine-grained Entity Typing with Entity Linking".** *Bo Chen, Xiaotao Gu, Yufeng Hu, Siliang Tang, Guoping Hu, Yueting Zhuang & Xiang Ren.* (EMNLP | IJCNLP 2019) [[paper]](https://arxiv.org/pdf/1904.06475)[code]
+43. **"Improving Fine-grained Entity Typing with Entity Linking".** *Hongliang Dai, Donghong Du, Xin Li, Yangqiu Song* (EMNLP | IJCNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1643.pdf)[code]
 
 44. **"An Attentive Fine-Grained Entity Typing Model with Latent Type Representation".** *Ying Lin, Heng Ji.* (EMNLP | IJCNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1641.pdf)[code]
 
